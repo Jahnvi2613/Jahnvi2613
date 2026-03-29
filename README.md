@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate CS Engineer dedicated to driving innovation in tech with AI and machine learning. <br>I have done my schooling from Himachal Pradesh and pursuing my degree at Chandigarh University in BE CSE Specialization in Artificial Intelligence and Machine Learning.<br>certain skills I am working on are Data Structure, statistical Analysis and Coding Algorithms.<br>Outside the tech, I have participated in Cultural Events and also represented my State folk dance "Nati" in other Universities
+Passionate CS Engineer dedicated to driving innovation in tech with AI and machine learning. <br>I have done my schooling from Himachal Pradesh and pursuing my degree at Chandigarh University in BE CSE Specialization in Artificial Intelligence and Machine Learning.<br>Certain skills I am working on are Data Structure, statistical Analysis and Coding Algorithms.<br>Outside the tech, I have participated in Cultural Events and also represented my State folk dance "Nati" in other Universities
 
 
 ## 🌐 Socials:
